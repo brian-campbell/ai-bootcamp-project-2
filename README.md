@@ -132,7 +132,9 @@ The models were compared using the above metrics, and XGBoost emerged as the mos
 
 * Prerequisites:
 
-    * Python 3.x
+    * Python 3.10.x or higher
+      
+    * Anaconda 24.4.x or higher
 
     * Jupyter Notebook
 
