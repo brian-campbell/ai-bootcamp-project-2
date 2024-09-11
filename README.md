@@ -65,11 +65,11 @@ Several machine learning models were implemented for URL classification:
 
 ### Model Performance:
 
-* Random Forest: Achieved an accuracy of X%.
+* Random Forest: Achieved an accuracy of 97%.
 
-* LightGBM: Achieved an accuracy of Y%.
+* LightGBM: Achieved an accuracy of 94%.
 
-* XGBoost: Achieved the highest accuracy of Z%, proving to be the most effective model.
+* XGBoost: Achieved the highest accuracy of 97%.
 
 ### Feature Engineering
 
