@@ -147,11 +147,7 @@ The models were compared using the above metrics, and XGBoost emerged as the mos
         cd ai-bootcamp-project-2
 
     
- 3) Install dependencies:
-
-        pip install -r requirements.txt
-
-4) Run the model training and analysis:
+2) Run the model training and analysis:
 
         jupyter notebook phishing_basic_analysis.ipynb
 
