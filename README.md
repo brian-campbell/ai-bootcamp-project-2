@@ -55,6 +55,10 @@ These features are crucial in determining whether a URL is phishing or legitimat
 
 There dataset contains 112 columns of data and just over 88,000 rows of data. It was obtained here: https://github.com/GregaVrbancic/Phishing-Dataset
 
+A sample screenshot of the full data file is included here for reference:
+![Screenshot 2024-09-11 at 10 09 44 AM](https://github.com/user-attachments/assets/d5424eee-3b86-4d76-a908-40bee3d3e253)
+
+
 
 ## Models Used
 
