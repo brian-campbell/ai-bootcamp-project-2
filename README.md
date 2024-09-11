@@ -129,6 +129,8 @@ The models were compared using the above metrics, and XGBoost emerged as the mos
 ### Example Visualization:
 
 * Pie Chart: The distribution of legitimate and phishing URLs based on the dataset.
+![output](https://github.com/user-attachments/assets/84974b51-bc2e-4d24-b809-b93fa8a73e2d)
+
 
 ### Installation and Usage
 
