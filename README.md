@@ -51,6 +51,8 @@ The dataset used in this project contains a collection of legitimate and phishin
 
 * Redirection flags
 
+There dataset contains 112 columns of data and just over 88,000 rows of data. It was obtained here: https://github.com/GregaVrbancic/Phishing-Dataset
+
 These features are crucial in determining whether a URL is phishing or legitimate.
 
 ## Models Used
