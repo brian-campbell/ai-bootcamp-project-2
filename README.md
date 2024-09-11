@@ -22,6 +22,8 @@ This project focuses on detecting phishing URLs using machine learning models su
 
 * Installation and Usage
 
+* Files
+
 * Conclusion
 
 
@@ -154,6 +156,19 @@ The models were compared using the above metrics, and XGBoost emerged as the mos
         jupyter notebook phishing_basic_analysis.ipynb
 
 5) Visualize the results: The notebook will generate various plots and graphs to visualize the results of the model training.
+
+### Files
+
+The main file for the project is `phishing_basic_analysis.ipynb` which is a jupyter notebook.
+
+The main data file is `dataset_full.csv` which contains the main, large dataset for the project.
+
+`Machine_Learning_of_Phishing_URL_Data.pptx` is the presentation that will be used for showing the class what was done in the project.
+
+`filtered_dataset.csv` is a file that is written by the project. It contains a whittle down set of data from the main dataset file.
+
+The `misc` directory contains several support files used during the proejct but are not part of the final solution.
+
 
 ### Conclusion
 
