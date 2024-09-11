@@ -16,15 +16,15 @@ This project focuses on detecting phishing URLs using machine learning models su
 
 * Evaluation Metrics
 
-* Results
+* [**Results**](#Results)
 
 * Visualizations
 
 * Installation and Usage
 
-* Files
+* [**Files**](#Files)
 
-* Conclusion
+* [**Conclusion**](#Conclusion)
 
 
 ### Introduction
