@@ -20,7 +20,7 @@ This project focuses on detecting phishing URLs using machine learning models su
 
 * [**Visualizations**](#Visualizations)
 
-* [**Installation and Usage**](#Installation%20and%20Usage)
+* [**Installation and Usage**](#Installation-and-Usage)
 
 * [**Files**](#Files)
 
