@@ -132,14 +132,14 @@ The models were compared using the above metrics, and XGBoost emerged as the mos
 
     * Jupyter Notebook
 
-    * Required Python packages: scikit-learn, xgboost, lightgbm, matplotlib, pandas
+    * Required Python packages: scikit-learn, xgboost, lightgbm, matplotlib, pandas, optuna, shap, tabgan, seaborn, and numpy
 
 ### Steps:
 
 1) Clone the repository:
 
         
-        `git@github.com:brian-campbell/ai-bootcamp-project-2.git`
+        git@github.com:brian-campbell/ai-bootcamp-project-2.git
         cd ai-bootcamp-project-2
 
     
