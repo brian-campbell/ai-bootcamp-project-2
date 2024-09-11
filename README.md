@@ -138,19 +138,20 @@ The models were compared using the above metrics, and XGBoost emerged as the mos
 
 1) Clone the repository:
 
-        git clone https://github.com/username/phishing-url-detection.git
-        cd phishing-url-detection
+        
+        `git@github.com:brian-campbell/ai-bootcamp-project-2.git`
+        cd ai-bootcamp-project-2
 
     
- 2) Install dependencies:
+ 3) Install dependencies:
 
         pip install -r requirements.txt
 
-3) Run the model training and analysis:
+4) Run the model training and analysis:
 
         jupyter notebook phishing_basic_analysis.ipynb
 
-4) Visualize the results: The notebook will generate various plots and graphs to visualize the results of the model training.
+5) Visualize the results: The notebook will generate various plots and graphs to visualize the results of the model training.
 
 ### Conclusion
 
