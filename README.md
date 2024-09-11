@@ -121,6 +121,7 @@ The models were compared using the above metrics, and XGBoost emerged as the mos
 * The following visualizations were generated as part of the analysis:
 
     * Feature Importance Plots: Show the contribution of each feature to the model’s decision.
+![output](https://github.com/user-attachments/assets/6053a1bd-fe0a-47f7-bc14-94410993a1a2)![output](https://github.com/user-attachments/assets/6547b2a3-3cb5-4cd4-8739-90fc44334ab3)![output](https://github.com/user-attachments/assets/8b5af988-7cb4-4167-a91b-ec4b0a7e48f0)
 
     * Confusion Matrix: Displays the number of correct and incorrect classifications.
 
