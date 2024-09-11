@@ -10,7 +10,7 @@ This project focuses on detecting phishing URLs using machine learning models su
 
 * [**Dataset**](#Dataset)
 
-* [**Models Used**](#Models Used)
+* [**Models Used**](#Models_Used)
 
 * Feature Engineering
 
